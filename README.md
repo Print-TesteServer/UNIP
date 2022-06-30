@@ -1,2 +1,2 @@
-# Faculdade
-Ciência da Computação | UNIP
+# Ciência da Computação | UNIP
+
