@@ -1,7 +1,7 @@
 # Ciência da Computação | UNIP
 - Venho aqui deixar guardado alguns estudos, slides e projetos criados no decorrer da faculdade.
 
-![menu do jogo](https://github.com/Print-TesteServer/Run-Scape/blob/main/image/Captura%20de%20Tela%20(23).png)
+<img align="right" width="320" src="https://github.com/Print-TesteServer/UNIP/blob/master/data/unnamed.png"  />
 
 ## Semestres
   - 1° Semestre - Concluído
